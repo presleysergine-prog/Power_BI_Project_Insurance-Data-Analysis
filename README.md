@@ -14,8 +14,7 @@
   <img src="https://img.shields.io/badge/Inactive%20Policies-25%25-orange?style=flat-square"/>
 </p>
 <p align="center">
-  <img width="90%" alt="Dashboard" src="https://github.com/user-attachments/assets/879e08ec-4468-4909-93fe-61cdb484c509" />
-</p>
+  <img width="1941" height="1080" alt="Power_BI_Dashboard" src="https://github.com/user-attachments/assets/8993af8b-3c7b-473a-a20f-dc6c32e113ca" />
 
 This project analyzes a fictional company, Press Insurance Pvt. Ltd. The data is sample data from a bootcamp and does not represent real customers.
 
@@ -86,14 +85,14 @@ flowchart
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img width="100%" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/879e08ec-4468-4909-93fe-61cdb484c509" />
-</p>
+  <img width="1941" height="1080" alt="Power_BI_Dashboard" src="https://github.com/user-attachments/assets/8993af8b-3c7b-473a-a20f-dc6c32e113ca" />
 <details>
 <summary>🖥️ <b>Power BI Workspace</b> (click to expand)</summary>
 <br>
 <p align="center">
   <img width="100%" alt="Power BI Workspace" src="https://github.com/user-attachments/assets/9c95e2a7-3ba4-451e-a70e-11ae0ace6e15" />
 </p>
+
 </details>
 
 ## 🔍 Key Findings
@@ -133,7 +132,9 @@ File	Description
 * 📄 InsuranceData.csv	| Raw insurance dataset |
 
 * 📊 insurance-cleaned-data-set.pbix | Power BI dashboard file |
-
+  
+* 📁 Images | Power_BI_Dashboard.png | Power_BI_Dashboard_table.png | Loading_the_data.png | Sql_database_table
+  
 ## 👤 Author
 
 Presley Ufuoma Sergine
